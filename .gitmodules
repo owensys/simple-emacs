@@ -1,0 +1,3 @@
+[submodule "lisp/simple-fly-keys"]
+	path = lisp/simple-fly-keys
+	url = https://github.com/soeye/simple-fly-keys.git
